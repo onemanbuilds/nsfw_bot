@@ -3,6 +3,8 @@
  Also it has an mp4 to gif converter.
  
 # Usage
+ First you have to create an app at the discord developer portal then you have to create a bot and paste it's token in the configs.json file.<br/>
+ Add a prefix for the commands for example: $.<br/>
  If you want to use nudefrom command you have to register an app on reddit then replace the reddit_app_client_id with your app's client_id.<br/>
  And replace reddit_praw_useragent with your app's description eg: discord random reddit post.
  
