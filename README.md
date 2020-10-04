@@ -2,6 +2,10 @@
  One of my friends wanted to have an nsfw bot on his discord server but a lot of them are limited if you are not pay for it so i simply made one.<br/>
  Also it has an mp4 to gif converter.
  
+# Usage
+ If you want to use nudefrom command you have to register an app on reddit then replace the reddit_app_client_id with your app's client_id.<br/>
+ And replace reddit_praw_useragent with your app's description
+ 
 # Commands
  nudefrom (subredditname) -> Get's a random nsfw picture/gif from the given subreddit<br/>
  sxyprn_get (sortbynamecategoryname) -> Get's the latest video (sortbynames latest/views/rating/orgasmic) categorynames (all/top/other)<br/>
