@@ -1,0 +1,10 @@
+{
+    "token":"bottokenhere",
+    "prefix":"botprefixhere",
+    "author_dc":"onemanbuilds#2108",
+    "author_dc_server":"https://discord.gg/33UzcuY",
+    "embed_footer_message":"MADE BY ONEMANBUILDS",
+    "icon_url":"https://media.discordapp.net/attachments/761523809819820036/762280255770853396/github_onemanbuilds.png",
+    "reddit_app_client_id":"redditappclientidhere",
+    "reddit_praw_useragent":"redditprawappuseragenthere"
+}
