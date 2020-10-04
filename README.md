@@ -6,7 +6,9 @@
  First you have to create an app at the discord developer portal then you have to create a bot and paste it's token in the configs.json file.<br/>
  Add a prefix for the commands for example: $.<br/>
  If you want to use nudefrom command you have to register an app on reddit then replace the reddit_app_client_id with your app's client_id.<br/>
- And replace reddit_praw_useragent with your app's description eg: discord random reddit post.
+ And replace reddit_praw_useragent with your app's description eg: discord random reddit post.<br/>
+ After that you can set your bot's status to be public or not.<br/>
+ Finally, at the oauth section you have to tick something for example bot, then visit the generated website to add the bot to your server.
  
 # Commands
  nudefrom (subredditname) -> Get's a random nsfw picture/gif from the given subreddit<br/>
