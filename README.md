@@ -4,7 +4,7 @@
  
 # Usage
  If you want to use nudefrom command you have to register an app on reddit then replace the reddit_app_client_id with your app's client_id.<br/>
- And replace reddit_praw_useragent with your app's description eg: discord random reddit post
+ And replace reddit_praw_useragent with your app's description eg: discord random reddit post.
  
 # Commands
  nudefrom (subredditname) -> Get's a random nsfw picture/gif from the given subreddit<br/>
