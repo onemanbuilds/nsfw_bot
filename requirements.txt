@@ -1,0 +1,9 @@
+requests
+json
+discord
+praw
+random
+asyncio
+bs4
+discord_webhook
+discord.ext
