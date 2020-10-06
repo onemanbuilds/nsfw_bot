@@ -1,5 +1,5 @@
 # Discord NSFW Bot
- One of my friends wanted to have an nsfw bot on his discord server but a lot of them are limited if you are not pay for it so i simply made one.<br/>
+ One of my friends wanted to have a nsfw bot on his discord server but a lot of them are limited if you are not pay for it so i simply made one.<br/>
  Also it has an mp4 to gif converter.
  
 # Usage
