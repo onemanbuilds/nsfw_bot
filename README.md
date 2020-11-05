@@ -1,6 +1,11 @@
 # Discord NSFW Bot
  One of my friends wanted to have a nsfw bot on his discord server but a lot of them are limited if you are not pay for it so i simply made one.<br/>
  Also it has an mp4 to gif converter.
+
+# Installation
+```
+pip3 install -r requirements.txt
+``` 
  
 # Usage
  First you have to create an app at the discord developer portal then you have to create a bot and paste it's token in the configs.json file.<br/>

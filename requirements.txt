@@ -1,9 +1,6 @@
-requests
-json
-discord
-praw
-random
-asyncio
-bs4
-discord_webhook
-discord.ext
+requests==2.24.0
+discord_webhook==0.11.0
+discord.py==1.5.1
+beautifulsoup4==4.9.3
+discord==1.0.1
+praw==7.1.0
